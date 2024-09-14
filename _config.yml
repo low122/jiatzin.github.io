@@ -1,4 +1,6 @@
 title: "Low, Jiat Zin"
 # logo: 
-description: "[LinkedIn](https://www.linkedin.com/in/jiatzin-low-9b832a290/) | [Email](mailto:lowjiatzzz@gmail.com) | [GitHub](https://github.com/yourusername)"
+linkedin: "https://www.linkedin.com/in/jiatzin-low-9b832a290/"
+email: "mailto:lowjiatzzz@gmail.com"
+github: "https://github.com/yourusername"
 theme: jekyll-theme-minimal
