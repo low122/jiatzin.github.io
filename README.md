@@ -1,6 +1,6 @@
 Low, Jiat Zin
 
-[LinkedIn](https://www.linkedin.com) | [Email](lowjiatzzz@gmail.com) | [Github](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/jiatzin-low-9b832a290/) | [Email](mailto:lowjiatzzz@gmail.com)
 
 ---
 
@@ -14,14 +14,13 @@ Motivated data analysis enthusiast with hands-on experience in Python, R, SQL, a
 - **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, SQL, Tableau, Excel/Spreadsheets
 - **APIs**: Binance API, Discord Bot Integration
 - **Version Control**: Git, GitHub
-- **Cloud Computing**: iCloud server rental for 24/7 running programs
 
 ---
 
 ## 💻 Projects
 
 ### 1. **Spotify Top 1000 Songs Data Analysis**
-**Tools Used**: R, Tableau, SQL  
+**Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, SQL  
 **Description**: Analyzed the top 1000 songs on Spotify in 2023 to identify trends and factors contributing to a song's success. Focused on artist impact, streaming statistics, and audio features.
 - Investigated correlations between artist type (solo, duo, group) and song popularity.
 - Visualized trends using Tableau and presented key insights into what makes a song trendy.
@@ -33,8 +32,8 @@ Motivated data analysis enthusiast with hands-on experience in Python, R, SQL, a
 - Automated scanning of all coins on Binance and notifying users if set criteria were met.
 
 ### 3. **Tiktok**  
-**Tools Used**: [List your tools]  
-**Description**: [Provide a brief description of the project, your role, and the tools you used.]
+**Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau
+**Description**: ...
 
 ---
 
@@ -43,9 +42,6 @@ Motivated data analysis enthusiast with hands-on experience in Python, R, SQL, a
 ### Western University (2024 - Present)
 **Bachelor of Computer Science (Expected Graduation: 2027**  
 - Relevant coursework: Data Science with R, Statistical Analysis, Machine Learning, Data Visualization
-
-### University of British Columbia (UBC) (Previous Enrollment)
-**Faculty Of Science (Transferred)**
 
 ---
 
@@ -62,4 +58,4 @@ Motivated data analysis enthusiast with hands-on experience in Python, R, SQL, a
 
 ## 🤝 Let's Connect!
 I'm always excited to collaborate on data analysis projects or discuss new opportunities!  
-Feel free to reach out via [email](mailto:your.email@example.com) or [LinkedIn](https://www.linkedin.com).
+Feel free to reach out via [email](mailto:lowjiatzzz@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jiatzin-low-9b832a290/).
