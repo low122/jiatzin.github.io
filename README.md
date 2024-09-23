@@ -5,12 +5,12 @@ Low, Jiat Zin
 ---
 
 ## 🎯 Objective
-Motivated data analysis enthusiast with hands-on experience in Python, R, SQL, and Tableau, seeking an internship opportunity in data analysis to apply and enhance my skills.
+Motivated data analysis enthusiast with hands-on experience in Python, SQL, and Tableau, seeking an internship opportunity in data analysis to apply and enhance my skills.
 
 ---
 
 ## 🛠️ Skills
-- **Programming Languages**: Python, Java, R
+- **Programming Languages**: Python, Java
 - **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, SQL, Tableau, Excel/Spreadsheets
 - **Version Control**: Git, GitHub
 
@@ -18,16 +18,38 @@ Motivated data analysis enthusiast with hands-on experience in Python, R, SQL, a
 
 ## 💻 Projects
 
-### 1. **Spotify Top 1000 Songs Data Analysis**
-**Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn), SQL  
-**Description**: Analyzed the top 1000 songs on Spotify in 2023 to identify trends and factors contributing to a song's success. Focused on artist impact, streaming statistics, and audio features.
-- Investigated correlations between artist type (solo, duo, group) and song popularity.
-- Visualized trends using Matplotlib and Searborn and presented key insights into what makes a song trendy.
+### Spotify Top 1000 Songs Analysis (2023)
+**Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau 
 
-### 2. **Tiktok**  
+**Skills**: Data cleaning, data analysis, data visualization, trend identification.
+
+**Description**: This project analyzes the top 1000 streamed Spotify songs from 2023 to investigate the impact of artist type (solo, duo, or group) on streaming performance. The songs are categorized by streaming counts into ranks (Top 10, 50, 100, 250, 500, 650, 817) to identify trends across various metrics such as BPM, danceability, energy, and key.
+
+**Data Processing**:  
+- Cleaned and processed raw data by removing irrelevant variables and handling missing data.
+- Explored and visualized data using Seaborn and Matplotlib for statistical insights.
+
+**Key Findings**:  
+- Solo artists outperform duos and groups in total streams within the top ranks.
+- Top 10 songs show higher variability in BPM and acousticness compared to songs ranked below the top 50.
+- Major mode and C# key are prevalent in top-ranked songs.
+[Github](https://github.com/low122/Spotify-music-trend)
+
+### 2. **Tiktok User Interaction Classification (In Progress)**
 **Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau
-**Description**: ...
 
+**Skills**: Data cleaning, data analysis, data visualization, machine learning model development.
+
+**Description**: Developing a machine learning model to classify user interaction data into claim or opinion categories. The project analyzes user engagement metrics (views, likes, comments, shares) across videos with different author statuses (banned, active, under review).
+
+**Data Cleaning**:
+- Cleaned and processed raw interaction data using Python libraries (Pandas and Numpy) to handle missing values, normalize engagement metrics, and remove outliers.
+- Applied exploratory data analysis (EDA) with Seaborn to visualize trends in engagement.
+
+**Key Findings (So Far)**:
+- Claim videos, especially from banned authors, have significantly higher engagement levels compared to opinion videos.
+- Videos classified as "claims" tend to generate more comments, likes, and shares, correlating with higher user activity.
+[Github](https://github.com/low122/Spotify-music-trend)
 ---
 
 ## 🎓 Education
