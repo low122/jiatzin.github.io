@@ -9,13 +9,6 @@ Motivated data analysis enthusiast with hands-on experience in Python, SQL, and 
 
 ---
 
-## 🛠️ Skills
-- **Programming Languages**: Python, Java
-- **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, SQL, Tableau, Excel/Spreadsheets
-- **Version Control**: Git, GitHub
-
----
-
 ## 💻 Projects
 
 ### Spotify Top 1000 Songs Analysis (2023)
@@ -52,6 +45,12 @@ Motivated data analysis enthusiast with hands-on experience in Python, SQL, and 
 [Github](https://github.com/low122/Spotify-music-trend)
 ---
 
+## 🛠️ Skills
+- **Programming Languages**: Python, Java
+- **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, SQL, Tableau, Excel/Spreadsheets
+- **Version Control**: Git, GitHub
+
+---
 ## 🎓 Education
 
 ### Western University (2024 - Present)
