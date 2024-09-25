@@ -43,6 +43,7 @@ Motivated data analysis enthusiast with hands-on experience in Python, SQL, and 
 - Claim videos, especially from banned authors, have significantly higher engagement levels compared to opinion videos.
 - Videos classified as "claims" tend to generate more comments, likes, and shares, correlating with higher user activity.
 [Github](https://github.com/low122/Spotify-music-trend)
+
 ---
 
 ## 🛠️ Skills
@@ -54,7 +55,10 @@ Motivated data analysis enthusiast with hands-on experience in Python, SQL, and 
 ## 🎓 Education
 
 ### Western University (2024 - Present)
-**Computer Science Major (Expected Graduation: 2027) 
+**Computer Science Major (Expected Graduation: 2026) 
+
+### University of British Columbia (2023 Fall - 2024 Summer)
+**Faculty of Science
 
 ---
 
