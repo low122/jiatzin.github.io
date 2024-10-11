@@ -11,7 +11,7 @@ Motivated data analysis enthusiast with hands-on experience in Python, SQL, and 
 
 ## 💻 Projects
 
-### Spotify Top 1000 Songs Analysis (2023)
+### Spotify Top 1000 Songs Analysis (Jun 2024)
 **Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau 
 
 **Skills**: Data cleaning, data analysis, data visualization, trend identification.
@@ -59,11 +59,6 @@ Motivated data analysis enthusiast with hands-on experience in Python, SQL, and 
 
 ### University of British Columbia (2023 Fall - 2024 Summer)
 **Faculty of Science
-
----
-
-## 🏆 Achievements
-- Developed two data-driven projects in GitHub repositories and a personal portfolio.
 
 ---
 
