@@ -5,7 +5,7 @@ Low, Jiat Zin
 ---
 
 ## 🎯 Objective
-Motivated data analysis enthusiast with hands-on experience in Python, SQL, and Tableau, seeking an internship opportunity in data analysis to apply and enhance my skills.
+Second year student at Western University with hands-on experience in Python, SQL, and Tableau, seeking an internship opportunity in data analysis to apply and enhance my skills.
 
 ---
 
