@@ -5,7 +5,7 @@ Low, Jiat Zin
 ---
 
 ## 🎯 Objective
-Second year student at Western University with hands-on experience in Python, SQL, and Tableau, seeking an internship opportunity in data analysis to apply and enhance my skills.
+I am a second-year student at Western University with hands-on experience in Python, SQL, and Tableau, and I am seeking an internship opportunity in data analysis to apply and enhance my skills.
 
 ---
 
@@ -19,12 +19,15 @@ Second year student at Western University with hands-on experience in Python, SQ
 **Description**: This project analyzes the top 1000 streamed Spotify songs from 2023 to investigate the impact of artist type (solo, duo, or group) on streaming performance. The songs are categorized by streaming counts into ranks (Top 10, 50, 100, 250, 500, 650, 817) to identify trends across various metrics such as BPM, danceability, energy, and key.
 
 **Data Processing**:  
-- Cleaned and processed raw data by removing irrelevant variables and handling missing data.
+- Defining non-overlapping ranking segments for clarity and specificity of my analysis.
+- Removing irrelevant variables, dropping rows with missing values, and converting data types, such as
+transforming the ’key’ variable into a categorical format to enhance the analytic readiness and accuracy
+of the dataset.
 - Explored and visualized data using Seaborn and Matplotlib for statistical insights.
 
 **Key Findings**:  
 - Solo artists outperform duos and groups in total streams within the top ranks.
-- Top 10 songs show higher variability in BPM and acousticness compared to songs ranked below the top 50.
+- The top 10 songs show higher variability in BPM and acousticness compared to songs ranked below the top 50.
 - Major mode and C# key are prevalent in top-ranked songs.
 [Github](https://github.com/low122/Spotify-music-trend)
 
@@ -47,18 +50,20 @@ Second year student at Western University with hands-on experience in Python, SQ
 ---
 
 ## 🛠️ Skills
-- **Programming Languages**: Python, Java
-- **Data Analysis**: Pandas, NumPy, Seaborn, Matplotlib, SQL, Tableau, Excel/Spreadsheets
+- **Technical Skills**: Python, Java, Pandas, NumPy, Seaborn, Matplotlib, SQL, Tableau, Excel/Spreadsheets
 - **Version Control**: Git, GitHub
 
 ---
 ## 🎓 Education
 
+### Taylor's University (2022 Dec - 2023 July)
+American Degree Transfer Program, Computer Science major
+
 ### Western University (2024 - Present)
-**Computer Science Major (Expected Graduation: 2026) 
+Computer Science Major (Expected Graduation: 2026) 
 
 ### University of British Columbia (2023 Fall - 2024 Summer)
-**Faculty of Science
+Faculty of Science
 
 ---
 
