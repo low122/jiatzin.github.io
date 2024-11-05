@@ -27,8 +27,18 @@ of the dataset.
 
 **Key Findings**:  
 - Solo artists outperform duos and groups in total streams within the top ranks.
-- The top 10 songs show higher variability in BPM and acousticness compared to songs ranked below the top 50.
-- Major mode and C# key are prevalent in top-ranked songs.
+
+Top 10 Songs:
+ - BPM: Averages 117-125, with a strong focus around 90-110 BPM.
+ - Mode: Major mode is dominant (70%).
+ - Danceability: High, averaging 69.10%, indicating popularity for danceable songs.
+ - Energy: Lower average energy (59.60%) compared to lower ranks.
+ - Liveness: Lowest across rankings, indicating fewer live elements.
+
+Top 50 Songs:
+ - Danceability: Lower than Top 10, averaging around 61%.
+ - Energy: Generally higher and more dynamic than Top 10.
+ - Speechiness: Slightly more diverse, with peaks up to 37%.
 [Github](https://github.com/low122/Spotify-music-trend)
 
 ### 2. **Tiktok User Interaction Classification (In Progress)**
