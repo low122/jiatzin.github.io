@@ -55,6 +55,7 @@ Top 50 Songs:
 **Key Findings (So Far)**:
 - Claim videos, especially from banned authors, have significantly higher engagement levels compared to opinion videos.
 - Videos classified as "claims" tend to generate more comments, likes, and shares, correlating with higher user activity.
+- Conducted statistical analysis to compare average video view counts between verified and unverified TikTok accounts through hypothesis testing and t-tests, revealing a significant difference in viewership between the two groups.
 [Github](https://github.com/low122/Spotify-music-trend)
 
 ---
