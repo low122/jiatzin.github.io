@@ -12,6 +12,7 @@ I am a second-year student at Western University with hands-on experience in Pyt
 ## 💻 Projects
 
 ### Spotify Top 1000 Songs Analysis (Jun 2024)
+[Github](https://github.com/low122/Spotify-music-trend)
 **Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau 
 
 **Skills**: Data cleaning, data analysis, data visualization, trend identification.
@@ -39,24 +40,26 @@ Top 50 Songs:
  - Danceability: Lower than Top 10, averaging around 61%.
  - Energy: Generally higher and more dynamic than Top 10.
  - Speechiness: Slightly more diverse, with peaks up to 37%.
-[Github](https://github.com/low122/Spotify-music-trend)
 
-### 2. **Tiktok User Interaction Classification (In Progress)**
-**Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau
+### 2. **TikTok Video Content Classification (2024, Dec)**
+ [Github](https://github.com/low122/Spotify-music-trend)
+**Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau， Random Forest model
 
 **Skills**: Data cleaning, data analysis, data visualization, machine learning model development.
 
-**Description**: Developing a machine learning model to classify user interaction data into claim or opinion categories. The project analyzes user engagement metrics (views, likes, comments, shares) across videos with different author statuses (banned, active, under review).
+**Description**: Developing a random forest model to classify user interaction data into claim or opinion categories. The project analyzes user engagement metrics (views, likes, comments, shares) across videos with different author statuses (banned, active, under review).
 
-**Data Cleaning**:
+**Data Preprocessing**:
 - Cleaned and processed raw interaction data using Python libraries (Pandas and Numpy) to handle missing values, normalize engagement metrics, and remove outliers.
 - Applied exploratory data analysis (EDA) with Seaborn to visualize trends in engagement.
 
-**Key Findings (So Far)**:
+**Key Results**:
+- The model successfully classifies video with an accuracy of ~99%, effectively distinguishing between claims and opnions.
 - Claim videos, especially from banned authors, have significantly higher engagement levels compared to opinion videos.
 - Videos classified as "claims" tend to generate more comments, likes, and shares, correlating with higher user activity.
 - Conducted statistical analysis to compare average video view counts between verified and unverified TikTok accounts through hypothesis testing and t-tests, revealing a significant difference in viewership between the two groups.
-[Github](https://github.com/low122/Spotify-music-trend)
+- Engagement variables (views, likes, comments, shares) contribute approximately 97% to accurately identifying claim status, thereby prioritizing key metrics for content classification.
+- Interestingly, claimed videos have a mean text length of 90 characters, compared to 78 characters for opinion videos.
 
 ---
 
