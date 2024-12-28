@@ -43,7 +43,7 @@ Top 50 Songs:
 
 ### 2. **TikTok Video Content Classification (2024, Dec)**
  [Github](https://github.com/low122/Spotify-music-trend)
-**Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau， Random Forest model
+**Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn, scikit-learn), Tableau， Random Forest model
 
 **Skills**: Data cleaning, data analysis, data visualization, machine learning model development.
 
@@ -52,6 +52,8 @@ Top 50 Songs:
 **Data Preprocessing**:
 - Cleaned and processed raw interaction data using Python libraries (Pandas and Numpy) to handle missing values, normalize engagement metrics, and remove outliers.
 - Applied exploratory data analysis (EDA) with Seaborn to visualize trends in engagement.
+- Transform categorical data into dummies variables, which split the categories into different variables with only true and false.
+- Tokenize text data using the built-in CountVectorizer in scikit package, which converts the text into a matrix of token counts for efficient analysis by the model.
 
 **Key Results**:
 - The model successfully classifies video with an accuracy of ~99%, effectively distinguishing between claims and opnions.
@@ -64,7 +66,7 @@ Top 50 Songs:
 ---
 
 ## 🛠️ Skills
-- **Technical Skills**: Python, Java, Pandas, NumPy, Seaborn, Matplotlib, SQL, Tableau, Excel/Spreadsheets
+- **Technical Skills**: Python, Java, Pandas, NumPy, Seaborn, Matplotlib, SQL, Tableau, Excel/Spreadsheets, scikit-learn
 - **Version Control**: Git, GitHub
 
 ---
