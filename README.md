@@ -1,6 +1,6 @@
 Low, Jiat Zin
 
-[LinkedIn](https://www.linkedin.com/in/jiatzin-low-9b832a290/) | [Email](mailto:lowjiatzzz@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jiatzinlow/) | [Email](mailto:lowjiatzzz@gmail.com)
 
 ---
 
@@ -10,30 +10,6 @@ I am a student at Western University with hands-on experience in Python and SQL.
 ---
 
 ## 💻 Projects
-
-### Spotify Top 1000 Songs Analysis (Jun 2024)
-[Github](https://github.com/low122/Spotify-music-trend)
-
-**Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau 
-
-**Skills**: Data cleaning, data analysis, data visualization, trend identification.
-
-**Description**: This project analyzes the top 1000 streamed Spotify songs from 2023 to investigate the impact of artist type (solo, duo, or group) on streaming performance. The songs are categorized by streaming counts into ranks (Top 10, 50, 100, 250, 500, 650, 817) to identify trends across various metrics such as BPM, danceability, energy, and key.
-
-**Project Highlights**
-
-**Transformative Data Structuring:**
-
-- Rank-Based Categorization: Instead of relying on raw stream counts, I restructured the target variable by categorizing songs into ranks (Top 10, Top 50, etc.). This approach unveiled clearer trends and stronger correlations with key features.
-
-**Key Analytical Insights:**
-
-- Solo Artists Dominate: Solo artists account for 60% of top-ranked songs, significantly outperforming groups, which make up only 12%.
-- Danceability is Crucial: Higher-ranked songs exhibit elevated danceability scores (60%-78%), with Top 10 songs averaging around 69% and peaking at 95%.
-- Strategic Key & Mode Usage: Although the D# key is rare (~3.67%), combining it with Major mode boosts streams by 48% compared to using D# alone.
-
-**Advanced Visualization Techniques:**
-- Violin Plots for Distribution Analysis: Employed violin plots to effectively compare the distribution of numerical features (e.g., BPM, Danceability) across different rank categories, providing deeper insights into feature variations.
 
 ### 2. **TikTok Video Content Classification (2024, Dec)**
  [Github](https://github.com/low122/Spotify-music-trend)
@@ -58,6 +34,30 @@ I am a student at Western University with hands-on experience in Python and SQL.
 - Engagement variables (views, likes, comments, shares) contribute approximately 97% to accurately identifying claim status, thereby prioritizing key metrics for content classification.
 - Interestingly, claimed videos have a mean text length of 90 characters, compared to 78 characters for opinion videos.
 
+
+### Spotify Top 1000 Songs Analysis (Jun 2024)
+[Github](https://github.com/low122/Spotify-music-trend)
+
+**Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau 
+
+**Skills**: Data cleaning, data analysis, data visualization, trend identification.
+
+**Description**: This project analyzes the top 1000 streamed Spotify songs from 2023 to investigate the impact of artist type (solo, duo, or group) on streaming performance. The songs are categorized by streaming counts into ranks (Top 10, 50, 100, 250, 500, 650, 817) to identify trends across various metrics such as BPM, danceability, energy, and key.
+
+**Project Highlights**
+
+**Transformative Data Structuring:**
+
+- Rank-Based Categorization: Instead of relying on raw stream counts, I restructured the target variable by categorizing songs into ranks (Top 10, Top 50, etc.). This approach unveiled clearer trends and stronger correlations with key features.
+
+**Key Analytical Insights:**
+
+- Solo Artists Dominate: Solo artists account for 60% of top-ranked songs, significantly outperforming groups, which make up only 12%.
+- Danceability is Crucial: Higher-ranked songs exhibit elevated danceability scores (60%-78%), with Top 10 songs averaging around 69% and peaking at 95%.
+- Strategic Key & Mode Usage: Although the D# key is rare (~3.67%), combining it with Major mode boosts streams by 48% compared to using D# alone.
+
+**Advanced Visualization Techniques:**
+- Violin Plots for Distribution Analysis: Employed violin plots to effectively compare the distribution of numerical features (e.g., BPM, Danceability) across different rank categories, providing deeper insights into feature variations.
 ---
 
 ## 🛠️ Skills
