@@ -86,4 +86,4 @@ Faculty of Science
 
 ## 🤝 Let's Connect!
 I'm always excited to collaborate on data analysis projects or discuss new opportunities!  
-Feel free to reach out via [email](mailto:lowjiatzzz@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jiatzin-low-9b832a290/).
+Feel free to reach out via [email](mailto:lowjiatzzz@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jiatzinlow/).
