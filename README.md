@@ -13,6 +13,7 @@ I am a student at Western University with hands-on experience in Python and SQL.
 
 ### Spotify Top 1000 Songs Analysis (Jun 2024)
 [Github](https://github.com/low122/Spotify-music-trend)
+
 **Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau 
 
 **Skills**: Data cleaning, data analysis, data visualization, trend identification.
@@ -36,6 +37,7 @@ I am a student at Western University with hands-on experience in Python and SQL.
 
 ### 2. **TikTok Video Content Classification (2024, Dec)**
  [Github](https://github.com/low122/Spotify-music-trend)
+ 
 **Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn, scikit-learn), Tableau， Random Forest model
 
 **Skills**: Data cleaning, data analysis, data visualization, machine learning model development.
