@@ -11,7 +11,7 @@ I am a student at Western University with hands-on experience in Python and SQL.
 
 ## 💻 Projects
 
-### 2. **TikTok Video Content Classification (2024, Dec)**
+### 1. **TikTok Video Content Classification (Dec 2024)**
  [Github](https://github.com/low122/Spotify-music-trend)
  
 **Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn, scikit-learn), Tableau， Random Forest model
@@ -35,7 +35,7 @@ I am a student at Western University with hands-on experience in Python and SQL.
 - Interestingly, claimed videos have a mean text length of 90 characters, compared to 78 characters for opinion videos.
 
 
-### Spotify Top 1000 Songs Analysis (Jun 2024)
+### 2. **Spotify Top 1000 Songs Analysis (July 2024)**
 [Github](https://github.com/low122/Spotify-music-trend)
 
 **Tools Used**: Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau 
