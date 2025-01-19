@@ -5,7 +5,7 @@ Low, Jiat Zin
 ---
 
 ## 🎯 Objective
-I am a second-year student at Western University with hands-on experience in Python, SQL, and Tableau, and I am seeking an internship opportunity in data analysis to apply and enhance my skills.
+I am a student at Western University with hands-on experience in Python and SQL. I am seeking an internship opportunity in data analysis to apply and enhance my skills.
 
 ---
 
@@ -19,27 +19,20 @@ I am a second-year student at Western University with hands-on experience in Pyt
 
 **Description**: This project analyzes the top 1000 streamed Spotify songs from 2023 to investigate the impact of artist type (solo, duo, or group) on streaming performance. The songs are categorized by streaming counts into ranks (Top 10, 50, 100, 250, 500, 650, 817) to identify trends across various metrics such as BPM, danceability, energy, and key.
 
-**Data Processing**:  
-- Defining non-overlapping ranking segments for clarity and specificity of my analysis.
-- Removing irrelevant variables, dropping rows with missing values, and converting data types, such as
-transforming the ’key’ variable into a categorical format to enhance the analytic readiness and accuracy
-of the dataset.
-- Explored and visualized data using Seaborn and Matplotlib for statistical insights.
+**Project Highlights**
 
-**Key Findings**:  
-- Solo artists outperform duos and groups in total streams within the top ranks.
+**Transformative Data Structuring:**
 
-Top 10 Songs:
- - BPM: Averages 117-125, with a strong focus around 90-110 BPM.
- - Mode: Major mode is dominant (70%).
- - Danceability: High, averaging 69.10%, indicating popularity for danceable songs.
- - Energy: Lower average energy (59.60%) compared to lower ranks.
- - Liveness: Lowest across rankings, indicating fewer live elements.
+- Rank-Based Categorization: Instead of relying on raw stream counts, I restructured the target variable by categorizing songs into ranks (Top 10, Top 50, etc.). This approach unveiled clearer trends and stronger correlations with key features.
 
-Top 50 Songs:
- - Danceability: Lower than Top 10, averaging around 61%.
- - Energy: Generally higher and more dynamic than Top 10.
- - Speechiness: Slightly more diverse, with peaks up to 37%.
+**Key Analytical Insights:**
+
+- Solo Artists Dominate: Solo artists account for 60% of top-ranked songs, significantly outperforming groups, which make up only 12%.
+- Danceability is Crucial: Higher-ranked songs exhibit elevated danceability scores (60%-78%), with Top 10 songs averaging around 69% and peaking at 95%.
+- Strategic Key & Mode Usage: Although the D# key is rare (~3.67%), combining it with Major mode boosts streams by 48% compared to using D# alone.
+
+**Advanced Visualization Techniques:**
+- Violin Plots for Distribution Analysis: Employed violin plots to effectively compare the distribution of numerical features (e.g., BPM, Danceability) across different rank categories, providing deeper insights into feature variations.
 
 ### 2. **TikTok Video Content Classification (2024, Dec)**
  [Github](https://github.com/low122/Spotify-music-trend)
