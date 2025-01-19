@@ -58,6 +58,8 @@ I am a student at Western University with hands-on experience in Python and SQL.
 
 **Advanced Visualization Techniques:**
 - Violin Plots for Distribution Analysis: Employed violin plots to effectively compare the distribution of numerical features (e.g., BPM, Danceability) across different rank categories, providing deeper insights into feature variations.
+
+
 ---
 
 ## 🛠️ Skills
