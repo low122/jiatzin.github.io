@@ -69,7 +69,7 @@ I am a student at Western University with hands-on experience in Python and SQL.
 ---
 ## 🎓 Education
 
-### Taylor's University (2022 Dec - 2023 July)
+### Taylor's University (2021 September - 2022 December)
 American Degree Transfer Program, Computer Science major
 
 ### Western University (2024 - Present)
