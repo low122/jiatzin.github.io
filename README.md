@@ -2,7 +2,6 @@ Low, Jiat Zin
 
 [LinkedIn](https://www.linkedin.com/in/jiatzinlow/) | [Email](mailto:lowjiatzzz@gmail.com)
 
----
 
 ## 🎯 Objective
 I am a student at Western University with hands-on experience in Python and SQL. I am seeking an internship opportunity in data analysis to apply and enhance my skills.
