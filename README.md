@@ -68,9 +68,6 @@ I am a student at Western University with hands-on experience in Python and SQL.
 ---
 ## 🎓 Education
 
-### Taylor's University (2021 September - 2022 December)
-American Degree Transfer Program, Computer Science major
-
 ### Western University (2024 - Present)
 Computer Science Major (Expected Graduation: 2026) 
 
@@ -87,4 +84,4 @@ Faculty of Science
 
 ## 🤝 Let's Connect!
 I'm always excited to collaborate on data analysis projects or discuss new opportunities!  
-Feel free to reach out via [email](mailto:lowjiatzzz@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jiatzinlow/).
+Feel free to reach out via [email](mailto:jlow55@uwo.ca) or [LinkedIn](https://www.linkedin.com/in/jiatzinlow/).
